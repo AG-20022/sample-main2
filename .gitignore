@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+.venv_mac/
+.venv-chatbot/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+!**/.env.example
+.DS_Store
+data/
+storage/
+*.zip
